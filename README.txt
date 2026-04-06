@@ -1,4 +1,4 @@
 
-JavaScriptPolyfiller
+MyJavaScriptPolyfill
 
-A JavaScript polyfiller.
+This is MyJavaScriptPolyfill.
